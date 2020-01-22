@@ -8,12 +8,12 @@ Now that you have been assigned a team you must do the following:
 
 ## Team members
 
+- Daniele Moro danielemoro@u.boisestate.edu (Sponsor liaison)
 - John Doe johndoe@u.boisestate.edu
-- Jane Doe janedoe@u.boisestate.edu (Sponsor liaison)
 
 ## Method of communication
 
-Join our slack channel @ [example](http://example.com), email, smoke signals etc.
+SLIM Slack Channel (everyone has been privately invited)
 
 ## Submission
 
