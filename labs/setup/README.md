@@ -13,6 +13,7 @@ Now that you have been assigned a team you must do the following:
 - Emanuel Hernandez emanuelhernandez@u.boisestate.edu
 - Hailee Kiesecker haileekiesecker@u.boisestate.edu
 - Cody Palin codypalin@u.boisestate.edu
+- Adel Touati adeltouati@u.boisestate.edu
 
 ## Method of communication
 
