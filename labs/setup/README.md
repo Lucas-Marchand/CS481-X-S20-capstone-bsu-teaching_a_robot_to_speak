@@ -9,7 +9,6 @@ Now that you have been assigned a team you must do the following:
 ## Team members
 
 - Daniele Moro danielemoro@u.boisestate.edu (Sponsor liaison)
-- John Doe johndoe@u.boisestate.edu
 - Emanuel Hernandez emanuelhernandez@u.boisestate.edu
 - Hailee Kiesecker haileekiesecker@u.boisestate.edu
 - Cody Palin codypalin@u.boisestate.edu
