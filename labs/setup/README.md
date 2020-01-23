@@ -10,6 +10,7 @@ Now that you have been assigned a team you must do the following:
 
 - Daniele Moro danielemoro@u.boisestate.edu (Sponsor liaison)
 - John Doe johndoe@u.boisestate.edu
+- Emanuel Hernandez emanuelhernandez@u.boisestate.edu
 
 ## Method of communication
 
