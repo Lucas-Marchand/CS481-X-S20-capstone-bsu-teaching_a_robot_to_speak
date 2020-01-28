@@ -11,6 +11,7 @@ Now that you have been assigned a team you must do the following:
 - Daniele Moro danielemoro@u.boisestate.edu (Sponsor liaison)
 - Emanuel Hernandez emanuelhernandez@u.boisestate.edu
 - Hailee Kiesecker haileekiesecker@u.boisestate.edu
+- Lucas Marchand LucasMarchand158@u.boisestate.edu
 - Cody Palin codypalin@u.boisestate.edu
 - Adel Touati adeltouati@u.boisestate.edu
 
